@@ -8,7 +8,7 @@ import Navbar from './components/navbar/Navbar';
 const App = () => {
   return (
     <div>
-      <h1>Moder web new web </h1>
+      <h1>Moder web new web hi everybody </h1>
 
     </div>
   )
