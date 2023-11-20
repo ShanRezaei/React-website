@@ -2,7 +2,7 @@ import React from 'react';
 // importing components
 import Article from './components/article/Article';
 import Brand from './components/brand/Brand';
-import CTA from './components/brand/Brand';
+import CTA from './components/cta/CTA';
 import Feature from './components/feature/Feature';
 import Navbar from './components/navbar/Navbar';
 
@@ -19,20 +19,16 @@ import Whatmodern from './containers/whatModern/Whatmodern';
 
 function App() {
   return (
-    <div className='App'>
+    <div className='container'>
         <div className='gradient__bg'>
             <Navbar />
             <Header />
 
         </div>
-        <Brand />
-
       
-
-
-
-
-
+        <CTA />
+       
+        <Footer />
 
 
     </div>

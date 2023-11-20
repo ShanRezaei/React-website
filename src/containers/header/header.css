@@ -1,0 +1,7 @@
+.header {
+  height: 400px;
+  background-color: rgb(87, 47, 47);
+}
+.header__h1 {
+  color: aliceblue;
+}
